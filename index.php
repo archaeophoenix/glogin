@@ -5,8 +5,8 @@ require_once ('libraries/Google/autoload.php');
 
 //Insert your cient ID and secret 
 //You can get it from : https://console.developers.google.com/
-$client_id = '522638115983-mfrrandj5ri4vidt42nn3rm6g09g4hn3.apps.googleusercontent.com'; 
-$client_secret = 'I6C8n9ZZcXJz0xJO9sXtqfr-';
+$client_id = 'your_client_id'; 
+$client_secret = 'your_client_secret';
 $redirect_uri = 'http://localhost/loging';
 
 //database
